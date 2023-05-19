@@ -10,6 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "joplin-turndown-plugin-gfm": "^1.0.12",
     "npm": "^9.6.7",
     "turndown": "^7.1.2",
     "turndown-plugin-gfm": "^1.0.2"
